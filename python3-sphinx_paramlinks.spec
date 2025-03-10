@@ -2,7 +2,7 @@ Summary:	Allows param links in Sphinx function/method descriptions to be linkabl
 Summary(pl.UTF-8):	Klikalne odnośniki w sphinksowych opisach funkcji/method
 Name:		python3-sphinx_paramlinks
 Version:	0.6.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-paramlinks/
